@@ -25,7 +25,7 @@ const orderButton = document.querySelector("#orderButton");
 
 orderButton.addEventListener("click", function () {
 
-    alert("Thank you! Your order has been received.");
+    alert("Cảm ơn! Đơn hàng của bạn đã được nhận.");
 
 });
 
@@ -38,7 +38,7 @@ const ctaButton = document.querySelector("#ctaButton");
 
 ctaButton.addEventListener("click", function () {
 
-    alert("Welcome to My Coffee!");
+    alert("Cảm ơn đã ghé qua");
 
 });
 
